@@ -18,7 +18,4 @@ spec:
         image: docker.io/kostiscodefresh/gitops-simple-app:v1.0
         ports:
         - containerPort: 8080
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+
